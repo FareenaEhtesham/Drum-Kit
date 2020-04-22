@@ -17,7 +17,6 @@ document.querySelectorAll(".drum")[i].addEventListener("click" , function(){
         Animation(this.innerHTML);
         
   })
-
 }
 
 document.addEventListener("keypress" , function(event){
