@@ -20,6 +20,7 @@ document.querySelectorAll(".drum")[i].addEventListener("click" , function(){
 
 }
 
+
 document.addEventListener("keypress" , function(event){
     Play_Drum(event.key)
     Animation(event.key)
